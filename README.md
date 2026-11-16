@@ -1,243 +1,271 @@
 
 <!-- =========================================================
-     MAHEN BANDARA HIGGODA
-     DEVELOPER CONSOLE // GITHUB PROFILE
+     MAHEN BANDARA HIGGODA | FUTURISTIC ROBOTICS DEVELOPER
 ========================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0b1120&height=3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:082f49,100:0891b2&height=220&section=header&text=MAHEN%20BANDARA&fontSize=48&fontColor=67e8f9&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20ROBOTICS%20%7C%20AI&descSize=15&descAlignY=60&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=750&lines=INITIALIZING+MAHEN.AI...;DEVELOPER+SYSTEM+ONLINE;FULL-STACK+ENGINEERING;EXPLORING+AI+%26+ROBOTICS;BUILDING+THE+FUTURE..." />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=MAHEN+BANDARA+HIGGODA;FULL-STACK+DEVELOPER;ENGINEERING+THE+DIGITAL+FUTURE" />
-
-<br/>
-
-```text
-╔══════════════════════════════════════════════════════════╗
-║                 DEVELOPER CONSOLE v2.0                  ║
-╠══════════════════════════════════════════════════════════╣
-║  USER       : MAHEN BANDARA HIGGODA                     ║
-║  ROLE       : FULL-STACK DEVELOPER                      ║
-║  ENVIRONMENT: SLIIT | SRI LANKA                         ║
-║  INTERESTS  : SOFTWARE | AI | ROBOTICS                  ║
-║  STATUS     : LEARNING / BUILDING / DEPLOYING           ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-[![GitHub](https://img.shields.io/badge/GitHub-MahenBandaraHiggoda-111827?style=flat-square&logo=github&logoColor=22D3EE)](https://github.com/MahenBandaraHiggoda)
-[![Location](https://img.shields.io/badge/Location-Sri%20Lanka-111827?style=flat-square&logo=googlemaps&logoColor=22D3EE)](https://github.com/MahenBandaraHiggoda)
-[![Focus](https://img.shields.io/badge/Focus-Full--Stack%20Development-111827?style=flat-square&logo=codeforces&logoColor=22D3EE)](https://github.com/MahenBandaraHiggoda)
-
-<br/>
-
-**Building systems. Solving problems. Exploring what's next.**
+<img src="https://img.shields.io/badge/CORE_SYSTEM-ONLINE-00F5D4?style=for-the-badge&logo=probot&logoColor=black"/>
+<img src="https://img.shields.io/badge/AI_ENGINE-ACTIVE-0891B2?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LOCATION-SRI_LANKA-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 </div>
 
 ---
 
-## `01. ABOUT_ME`
+## `01 // AI ROBOT ASSISTANT`
 
-```javascript
-/**
- * Developer Profile
- * @author Mahen Bandara Higgoda
- */
+<div align="center">
 
-class Developer {
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="220" alt="Animated developer robot"/>
 
-    constructor() {
-        this.name = "Mahen Bandara Higgoda";
-        this.role = "Aspiring Full-Stack Developer";
-        this.education = "SLIIT Undergraduate";
-        this.location = "Sri Lanka";
+### `MAHEN.AI // PERSONAL DEVELOPMENT ASSISTANT`
 
-        this.interests = [
-            "Full-Stack Engineering",
-            "Artificial Intelligence",
-            "Robotics & Automation",
-            "Software Architecture",
-            "Emerging Technologies"
-        ];
-    }
+<img src="https://img.shields.io/badge/NEURAL_CORE-INITIALIZED-00F5D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/ROBOT_MODE-READY-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/BUILD_MODE-ENABLED-7C3AED?style=flat-square"/>
 
-    getCurrentFocus() {
-        return [
-            "Developing scalable web applications",
-            "Building interactive mobile experiences",
-            "Exploring intelligent systems",
-            "Improving software engineering skills"
-        ];
-    }
-}
-
-const mahen = new Developer();
-
-console.log("System initialized successfully.");
-```
+</div>
 
 ---
 
-## `02. TECH_STACK`
-
-> Technologies and tools I use to develop, test and engineer software.
-
-### FRONTEND ENGINEERING
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,tailwind,vite&theme=dark" />
-</p>
-
-### BACKEND ENGINEERING
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,python,php&theme=dark" />
-</p>
-
-### DATABASE & CLOUD
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,firebase&theme=dark" />
-</p>
-
-### DEVELOPMENT TOOLS
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,figma,blender&theme=dark" />
-</p>
-
----
-
-## `03. ENGINEERING_PROJECTS`
+## `02 // SYSTEM IDENTITY`
 
 ```bash
-$ ls ./projects
-
-[01] LibroSeat/
-[02] LittleStars/
+┌─────────────────────────────────────────────┐
+│             DEVELOPER PROFILE                │
+├─────────────────────────────────────────────┤
+│ USER       : MAHEN BANDARA HIGGODA          │
+│ ROLE       : FULL-STACK DEVELOPER           │
+│ EDUCATION  : SLIIT UNDERGRADUATE            │
+│ LOCATION   : SRI LANKA                      │
+│ INTEREST   : AI / ROBOTICS / SOFTWARE       │
+│ STATUS     : CONTINUOUSLY LEARNING          │
+└─────────────────────────────────────────────┘
 ```
 
-### `01 // LibroSeat`
+```javascript
+const mahen = {
+    name: "Mahen Bandara Higgoda",
+    username: "MahenBandaraHiggoda",
+    role: "Aspiring Full-Stack Developer",
+    education: "SLIIT Undergraduate",
+    location: "Sri Lanka",
 
-**Library Book Reservation & Reading-Room Seat Booking**
+    interests: [
+        "Full-Stack Development",
+        "Artificial Intelligence",
+        "Robotics & Automation",
+        "Software Engineering",
+        "Emerging Technologies"
+    ],
 
-A mobile application designed to improve the library reservation experience through interactive seat selection and reading-room booking.
+    mission: "Building intelligent digital experiences",
 
-| Component | Technology |
-|---|---|
-| Mobile | React Native |
-| Backend / Data | Supabase |
-| Core feature | Seat reservation |
-| Interface | Interactive seat selection |
+    philosophy: "Learn. Build. Innovate. Repeat."
+};
 
-[![Repository](https://img.shields.io/badge/OPEN_REPOSITORY-22D3EE?style=for-the-badge&logo=github&logoColor=black)](https://github.com/rakiiith/LibroSeat)
-
-### `02 // LittleStars`
-
-**Interactive Educational Platform**
-
-A MERN-stack educational application focused on interactive learning games and child-friendly digital experiences.
-
-| Component | Technology |
-|---|---|
-| Frontend | React |
-| Backend | Node.js / Express |
-| Database | MongoDB |
-| Core feature | Interactive learning games |
-
-```text
-PROJECT STATUS: DEVELOPMENT PORTFOLIO
+console.log("Welcome to Mahen's developer system.");
 ```
 
 ---
 
-## `04. GITHUB_METRICS`
+## `03 // TECHNOLOGY MATRIX`
+
+**[ FRONTEND ENGINEERING ]**
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,tailwind,vite&theme=dark"/>
+</p>
+
+**[ BACKEND ENGINEERING ]**
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,python,php&theme=dark"/>
+</p>
+
+**[ DATABASE & CLOUD ]**
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,firebase&theme=dark"/>
+</p>
+
+**[ DEVELOPER ENVIRONMENT ]**
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,figma,blender&theme=dark"/>
+</p>
+
+---
+
+## `04 // ENGINEERING PROJECTS`
+
+```bash
+$ cd ~/mahen/projects
+$ ls -la
+
+drwxr-xr-x  LibroSeat
+drwxr-xr-x  LittleStars
+```
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 LibroSeat
+
+**Library Seat Reservation System**
+
+- React Native
+- Supabase
+- Interactive seat selection
+- Reading-room booking
+- Reservation management
+
+<a href="https://github.com/rakiiith/LibroSeat">
+<img src="https://img.shields.io/badge/VIEW_SOURCE-22D3EE?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</td>
+<td width="50%">
+
+### 🤖 LittleStars
+
+**Interactive Learning Platform**
+
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Educational games
+
+</td>
+</tr>
+</table>
+
+---
+
+## `05 // LIVE SYSTEM MONITOR`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MahenBandaraHiggoda&show_icons=true&hide_border=true&bg_color=0B1120&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github"/>
+<img src="https://img.shields.io/badge/DEVELOPMENT-ONLINE-00F5D4?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/AI_RESEARCH-ACTIVE-0891B2?style=for-the-badge&logo=openai"/>
+<img src="https://img.shields.io/badge/INNOVATION-ONGOING-7C3AED?style=for-the-badge&logo=probot"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahenBandaraHiggoda&layout=compact&hide_border=true&bg_color=0B1120&title_color=22D3EE&text_color=C9D1D9"/>
+</div>
+
+```text
+╔══════════════════════════════════════════════╗
+║             MAHEN // SYSTEM CORE             ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║  > Loading development environment...        ║
+║  > Initializing neural network interface...  ║
+║  > Connecting software modules...            ║
+║  > Preparing next generation systems...     ║
+║                                              ║
+║  [OK] SOFTWARE ENGINEERING                   ║
+║  [OK] FULL-STACK DEVELOPMENT                 ║
+║  [OK] ROBOTICS EXPLORATION                   ║
+║  [OK] ARTIFICIAL INTELLIGENCE                ║
+║                                              ║
+║  SYSTEM STATUS: ALL SYSTEMS READY            ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+## `06 // GITHUB ANALYTICS`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MahenBandaraHiggoda&show_icons=true&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=00F5D4&text_color=CBD5E1&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahenBandaraHiggoda&layout=compact&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CBD5E1"/>
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=MahenBandaraHiggoda&theme=transparent&hide_border=true&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=MahenBandaraHiggoda&theme=transparent&hide_border=true&ring=22D3EE&fire=00F5D4&currStreakLabel=22D3EE"/>
 
 </div>
 
 ---
 
-## `05. CONTRIBUTION_GRAPH`
+## `07 // CONTRIBUTION ACTIVITY`
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MahenBandaraHiggoda&bg_color=0B1120&color=22D3EE&line=0891B2&point=FFFFFF&area=true&hide_border=true&custom_title=GITHUB%20CONTRIBUTION%20MONITOR"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MahenBandaraHiggoda&bg_color=020617&color=22D3EE&line=00F5D4&point=FFFFFF&area=true&hide_border=true&custom_title=DEVELOPER%20ACTIVITY%20MONITOR"/>
 
 </div>
 
 ---
 
-## `06. CURRENT_OBJECTIVES`
+## `08 // DEVELOPER OBJECTIVES`
 
 ```python
-class CurrentObjectives:
+class FutureEngineer:
 
     def __init__(self):
         self.learning = [
-            "Advanced React Development",
+            "Advanced React",
             "Backend Architecture",
-            "Database Engineering",
-            "Mobile Application Development",
-            "AI and Robotics"
+            "AI Engineering",
+            "Robotics",
+            "Cloud & DevOps"
         ]
 
-        self.building = [
-            "Real-world software solutions",
-            "Interactive user experiences",
-            "Intelligent digital systems"
-        ]
+    def execute_mission(self):
+        return "LEARN -> BUILD -> TEST -> DEPLOY"
 
-    def execute(self):
-        return "LEARN -> ENGINEER -> TEST -> DEPLOY"
+engineer = FutureEngineer()
+print(engineer.execute_mission())
 ```
 
 ---
 
-## `07. CONNECT`
+## `09 // CONNECT TO MY NETWORK`
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-0B1120?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/MahenBandaraHiggoda)
+<a href="https://github.com/MahenBandaraHiggoda">
+<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=22D3EE"/>
+</a>
 
-<!-- Add your LinkedIn profile URL here -->
-
+<!-- Replace with your real LinkedIn URL -->
 <!--
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0B1120?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](YOUR_LINKEDIN_URL)
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
 -->
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=MahenBandaraHiggoda&style=flat-square&color=0891B2&label=PROFILE+VISITS"/>
+<img src="https://komarev.com/ghpvc/?username=MahenBandaraHiggoda&label=PROFILE%20VISITS&color=0891B2&style=for-the-badge"/>
 
 <br/><br/>
 
 ```text
-[ SYSTEM STATUS: ONLINE ]
-
-while (alive) {
-    learn();
-    build();
-    solveProblems();
-    innovate();
-}
-
-> END OF TRANSMISSION_
+╔════════════════════════════════════════════╗
+║                                            ║
+║        THINK BEYOND LIMITS.                ║
+║        CODE WITH PURPOSE.                 ║
+║        ENGINEER THE FUTURE.               ║
+║                                            ║
+║        SYSTEM MESSAGE: KEEP BUILDING_      ║
+║                                            ║
+╚════════════════════════════════════════════╝
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:082F49,100:0891B2&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:082f49,100:0891b2&height=120&section=footer&animation=fadeIn"/>
 
-**MAHEN BANDARA HIGGODA | ENGINEERING THE FUTURE**
+**MAHEN BANDARA HIGGODA © 2026**
 
 </div>
