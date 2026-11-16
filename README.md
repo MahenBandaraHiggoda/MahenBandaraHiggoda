@@ -1,219 +1,243 @@
-<!-- ===================================================== -->
-<!-- MAHEN BANDARA HIGGODA | FUTURISTIC DEVELOPER PROFILE -->
-<!-- ===================================================== -->
 
-<!-- ANIMATED CYBER HEADER -->
+<!-- =========================================================
+     MAHEN BANDARA HIGGODA
+     DEVELOPER CONSOLE // GITHUB PROFILE
+========================================================== -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:082f49,70:0891b2,100:020617&height=220&section=header&text=MAHEN%20BANDARA&fontSize=48&fontColor=67e8f9&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descSize=15&descAlignY=58&animation=fadeIn" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=INITIALIZING+DEVELOPER+PROFILE...;SYSTEM+STATUS%3A+ONLINE;BUILDING+INTELLIGENT+DIGITAL+SYSTEMS;EXPLORING+AI+%7C+ROBOTICS+%7C+FULL+STACK;TURNING+IDEAS+INTO+REALITY..." alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0b1120&height=3"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F5D4?style=for-the-badge&logo=probot&logoColor=black" />
-<img src="https://img.shields.io/badge/LOCATION-SRI_LANKA-0891B2?style=for-the-badge&logo=googlemaps&logoColor=white" />
-<img src="https://img.shields.io/badge/FOCUS-FUTURE_TECH-7C3AED?style=for-the-badge&logo=target&logoColor=white" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=MAHEN+BANDARA+HIGGODA;FULL-STACK+DEVELOPER;ENGINEERING+THE+DIGITAL+FUTURE" />
+
+<br/>
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║                 DEVELOPER CONSOLE v2.0                  ║
+╠══════════════════════════════════════════════════════════╣
+║  USER       : MAHEN BANDARA HIGGODA                     ║
+║  ROLE       : FULL-STACK DEVELOPER                      ║
+║  ENVIRONMENT: SLIIT | SRI LANKA                         ║
+║  INTERESTS  : SOFTWARE | AI | ROBOTICS                  ║
+║  STATUS     : LEARNING / BUILDING / DEPLOYING           ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+[![GitHub](https://img.shields.io/badge/GitHub-MahenBandaraHiggoda-111827?style=flat-square&logo=github&logoColor=22D3EE)](https://github.com/MahenBandaraHiggoda)
+[![Location](https://img.shields.io/badge/Location-Sri%20Lanka-111827?style=flat-square&logo=googlemaps&logoColor=22D3EE)](https://github.com/MahenBandaraHiggoda)
+[![Focus](https://img.shields.io/badge/Focus-Full--Stack%20Development-111827?style=flat-square&logo=codeforces&logoColor=22D3EE)](https://github.com/MahenBandaraHiggoda)
+
+<br/>
+
+**Building systems. Solving problems. Exploring what's next.**
 
 </div>
 
 ---
 
-## `01 // SYSTEM IDENTITY`
-
-```bash
-> booting_mahen.exe
-> loading developer profile...
-> identity verified: MAHEN BANDARA HIGGODA
-> role: FULL-STACK DEVELOPER
-> mission: BUILD THE FUTURE
-> status: CONTINUOUSLY LEARNING_
-```
-
-<img align="right" width="180" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+## `01. ABOUT_ME`
 
 ```javascript
-const mahen = {
-    name: "Mahen Bandara Higgoda",
-    username: "MahenBandaraHiggoda",
-    role: "Aspiring Full-Stack Developer",
+/**
+ * Developer Profile
+ * @author Mahen Bandara Higgoda
+ */
 
-    education: "SLIIT Undergraduate",
-    location: "Sri Lanka",
+class Developer {
 
-    interests: [
-        "Full-Stack Development",
-        "Artificial Intelligence",
-        "Robotics",
-        "Software Engineering",
-        "Emerging Technologies"
-    ],
+    constructor() {
+        this.name = "Mahen Bandara Higgoda";
+        this.role = "Aspiring Full-Stack Developer";
+        this.education = "SLIIT Undergraduate";
+        this.location = "Sri Lanka";
 
-    currentMission:
-        "Building innovative digital experiences",
+        this.interests = [
+            "Full-Stack Engineering",
+            "Artificial Intelligence",
+            "Robotics & Automation",
+            "Software Architecture",
+            "Emerging Technologies"
+        ];
+    }
 
-    mindset: "Learn. Build. Innovate. Repeat."
-};
+    getCurrentFocus() {
+        return [
+            "Developing scalable web applications",
+            "Building interactive mobile experiences",
+            "Exploring intelligent systems",
+            "Improving software engineering skills"
+        ];
+    }
+}
+
+const mahen = new Developer();
+
+console.log("System initialized successfully.");
 ```
-
-<br clear="right"/>
 
 ---
 
-## `02 // TECHNOLOGY MATRIX`
+## `02. TECH_STACK`
 
-### FRONTEND DEVELOPMENT
+> Technologies and tools I use to develop, test and engineer software.
 
-<p align="left">
+### FRONTEND ENGINEERING
+
+<p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,tailwind,vite&theme=dark" />
 </p>
 
-### BACKEND DEVELOPMENT
+### BACKEND ENGINEERING
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,php&theme=dark" />
 </p>
 
 ### DATABASE & CLOUD
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,firebase&theme=dark" />
 </p>
 
-### TOOLS & DEVELOPMENT ENVIRONMENT
+### DEVELOPMENT TOOLS
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,figma,blender&theme=dark" />
 </p>
 
 ---
 
-## `03 // ACTIVE PROJECTS`
+## `03. ENGINEERING_PROJECTS`
 
-<div align="center">
+```bash
+$ ls ./projects
 
-### ◈ FEATURED DEVELOPMENT
+[01] LibroSeat/
+[02] LittleStars/
+```
 
-</div>
+### `01 // LibroSeat`
 
-<table>
-<tr>
-<td width="50%">
+**Library Book Reservation & Reading-Room Seat Booking**
 
-### 🚀 LibroSeat
+A mobile application designed to improve the library reservation experience through interactive seat selection and reading-room booking.
 
-**Library Seat Reservation System**
+| Component | Technology |
+|---|---|
+| Mobile | React Native |
+| Backend / Data | Supabase |
+| Core feature | Seat reservation |
+| Interface | Interactive seat selection |
 
-- React Native
-- Supabase
-- Interactive seat selection
-- Seat reservation management
-- Reading-room booking
+[![Repository](https://img.shields.io/badge/OPEN_REPOSITORY-22D3EE?style=for-the-badge&logo=github&logoColor=black)](https://github.com/rakiiith/LibroSeat)
 
-<a href="https://github.com/rakiiith/LibroSeat">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+### `02 // LittleStars`
 
-</td>
-<td width="50%">
+**Interactive Educational Platform**
 
-### 🤖 LittleStars
+A MERN-stack educational application focused on interactive learning games and child-friendly digital experiences.
 
-**Interactive Learning Platform**
+| Component | Technology |
+|---|---|
+| Frontend | React |
+| Backend | Node.js / Express |
+| Database | MongoDB |
+| Core feature | Interactive learning games |
 
-- MERN Stack
-- React
-- Node.js & Express
-- MongoDB
-- Interactive educational games
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-**MORE PROJECTS COMING SOON**
-
-`[ INNOVATION IN PROGRESS ]`
-
-</div>
+```text
+PROJECT STATUS: DEVELOPMENT PORTFOLIO
+```
 
 ---
 
-## `04 // GITHUB ANALYTICS`
+## `04. GITHUB_METRICS`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MahenBandaraHiggoda&show_icons=true&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=00F5D4&text_color=CBD5E1&ring_color=22D3EE" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MahenBandaraHiggoda&show_icons=true&hide_border=true&bg_color=0B1120&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahenBandaraHiggoda&layout=compact&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CBD5E1" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahenBandaraHiggoda&layout=compact&hide_border=true&bg_color=0B1120&title_color=22D3EE&text_color=C9D1D9"/>
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=MahenBandaraHiggoda&hide_border=true&background=020617&ring=22D3EE&fire=00F5D4&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" />
+<img width="70%" src="https://streak-stats.demolab.com?user=MahenBandaraHiggoda&theme=transparent&hide_border=true&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE"/>
 
 </div>
 
 ---
 
-## `05 // CONTRIBUTION ACTIVITY`
+## `05. CONTRIBUTION_GRAPH`
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MahenBandaraHiggoda&bg_color=020617&color=22D3EE&line=00F5D4&point=FFFFFF&area=true&hide_border=true&custom_title=DEVELOPER%20ACTIVITY%20MONITOR" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MahenBandaraHiggoda&bg_color=0B1120&color=22D3EE&line=0891B2&point=FFFFFF&area=true&hide_border=true&custom_title=GITHUB%20CONTRIBUTION%20MONITOR"/>
 
 </div>
 
 ---
 
-## `06 // DEVELOPER PHILOSOPHY`
+## `06. CURRENT_OBJECTIVES`
+
+```python
+class CurrentObjectives:
+
+    def __init__(self):
+        self.learning = [
+            "Advanced React Development",
+            "Backend Architecture",
+            "Database Engineering",
+            "Mobile Application Development",
+            "AI and Robotics"
+        ]
+
+        self.building = [
+            "Real-world software solutions",
+            "Interactive user experiences",
+            "Intelligent digital systems"
+        ]
+
+    def execute(self):
+        return "LEARN -> ENGINEER -> TEST -> DEPLOY"
+```
+
+---
+
+## `07. CONNECT`
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+[![GitHub](https://img.shields.io/badge/GITHUB-0B1120?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/MahenBandaraHiggoda)
+
+<!-- Add your LinkedIn profile URL here -->
+
+<!--
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0B1120?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](YOUR_LINKEDIN_URL)
+-->
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=MahenBandaraHiggoda&style=flat-square&color=0891B2&label=PROFILE+VISITS"/>
 
 <br/><br/>
 
 ```text
-┌───────────────────────────────────────────────┐
-│                                               │
-│   THINK BEYOND LIMITS.                         │
-│   CODE WITH PURPOSE.                           │
-│   BUILD WHAT DOESN'T EXIST YET.                │
-│                                               │
-│                 [ FUTURE IS LOADING... ]       │
-│                                               │
-└───────────────────────────────────────────────┘
+[ SYSTEM STATUS: ONLINE ]
+
+while (alive) {
+    learn();
+    build();
+    solveProblems();
+    innovate();
+}
+
+> END OF TRANSMISSION_
 ```
 
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:082F49,100:0891B2&height=100&section=footer"/>
 
----
-
-## `07 // CONNECT TO MY NETWORK`
-
-<div align="center">
-
-<a href="https://github.com/MahenBandaraHiggoda">
-<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=22D3EE"/>
-</a>
-
-<!-- Add your LinkedIn URL below -->
-<!-- <a href="YOUR_LINKEDIN_URL"> -->
-<!-- <img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/> -->
-<!-- </a> -->
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=MahenBandaraHiggoda&label=PROFILE%20SCANS&color=0891b2&style=for-the-badge" />
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:082f49,100:0891b2&height=120&section=footer&animation=fadeIn" />
-
-### `SYSTEM MESSAGE: KEEP BUILDING THE FUTURE.`
-
-**MAHEN BANDARA HIGGODA © 2026**
+**MAHEN BANDARA HIGGODA | ENGINEERING THE FUTURE**
 
 </div>
